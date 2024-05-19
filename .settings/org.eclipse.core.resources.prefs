@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/webapp/WEB-INF/views/administrator/index.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/administrator/layout/nav.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/customer/computer.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/customer/gear.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/customer/laptop.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/customer/layout/footer.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/customer/layout/header.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/customer/login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/customer/myaccount.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/customer/order.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/customer/wishlist.jsp=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources=UTF-8
+encoding/<project>=UTF-8
