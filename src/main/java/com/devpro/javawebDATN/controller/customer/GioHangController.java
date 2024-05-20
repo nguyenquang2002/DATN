@@ -312,7 +312,7 @@ public class GioHangController extends BaseController{
 //		if(user.getUsername() !=null) {
 //			return "redirect:/account/order/"+user.getUsername()+"-"+user.getId(); // -> đường dẫn tới View.
 //		} else 
-		return "redirect:/cart";
+		return "redirect:/myaccount/order";
 		
 		
 		

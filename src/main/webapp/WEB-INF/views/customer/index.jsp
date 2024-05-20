@@ -559,20 +559,16 @@
         </div> 
         <!--End of Modal quick view-->
     
-        <!-- add add to cart notifacition -->
-        <div class="modal-add-notifacition">
+         <!-- add add to cart notifacition -->
+        <div class="modal-addproduct-notifacition">
             <div class="add-notifacition-inner media align-items-center">
-                <div class="add-noti-image">
-                    <img src="${base }/img/product/add-note.jpg" alt="">
-                </div>
-                <div class="add-noti-text media-body">
-                    <span>Cat Eye Reading Glasses</span>
-                    <p>Added To Your Cart Successfully!</p>
+                
+                <div class="add-noti-text media-body" id="messageDiv">
+                    
                 </div>
             </div>
         </div>
-        <!-- add add to cart notifacition -->
-    
+       
         <!-- add add to cart notifacition -->
         <div class="modal-wish-notifacition">
             <div class="wish-notifacition-inner media align-items-center">

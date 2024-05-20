@@ -367,42 +367,11 @@
                                             </li>
                                             <li>
                                                 <a href="${base }/list?loaiSP=4">Gear</a>
-                                                <ul>
-                                                    <li><a href="about.html">About</a></li>
-                                                    <li><a href="cart-list.html">Cart List</a></li>
-                                                    <li><a href="checkout.html">Check Out</a></li>
-                                                    <li><a href="wish-list.html">Wish List</a></li>
-                                                    <li><a href="faq.html">FAQ</a></li>
-                                                    <li><a href="myaccount.html">My Account</a></li>
-                                                    <li><a href="order-tracking.html">Order Tracking</a></li>
-                                                    <li><a href="search-result.html">Search Results</a></li>
-                                                    <li><a href="logout.html">Log Out</a></li>
-                                                    <li><a href="#">Coming Soon</a>
-                                                        <ul><li><a href="comming-soon.html">Coming Soon 01</a></li>
-                                                            <li><a href="comming-soon2.html">Coming Soon 02</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="#">404 Page</a>
-                                                        <ul>
-                                                            <li><a href="error1.html">404 Page 1</a></li>
-                                                            <li><a href="error2.html">404 Page 2</a></li>
-                                                            <li><a href="error3.html">404 Page 3</a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
+                                                
                                             </li>
                                             <li>
                                                 <a href="${base }/list?loaiSP=3">Phần cứng</a>
-                                                <ul>
-                                                    <li><a href="blog-2clumn.html">Blog Layout</a></li>
-                                                    
-                                                    <li><a href="blog-2clumn-withbar.html">Blog Right Sidebar</a></li>
-                                                    <li><a href="blog-pinterest.html">Blog Pinterest</a></li>
-                                                    <li><a href="blog-pinterest-withbar.html">Blog Pinterest with Sidebar</a></li>
-                                                    <li><a href="blog-list.html">Blog list</a></li><li><a href="blog-list-withbar.html">Blog list with Sidebar</a></li>
-                                                    <li><a href="blog-details-withbar.html">Blog Details With Sidebar</a></li>
-                                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                                </ul>
+                                                
                                             </li>
                                             <li></li>
                                         </ul>
